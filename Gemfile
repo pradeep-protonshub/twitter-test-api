@@ -60,5 +60,5 @@ gem 'dotenv-rails'
 gem 'rack-cors', '~> 0.4.1'
 gem 'devise'
 gem 'fog' #sudo apt-get install libcurl4-gnutls-dev
-gem 'mini_magick', '~> 4.3.6'
+gem 'mini_magick', '~> 4.9.4'
 gem 'redis-mutex', '~> 4.0.1'
