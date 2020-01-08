@@ -57,7 +57,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'dotenv-rails'
-gem 'rack-cors', '~> 0.4.1'
+gem 'rack-cors', '~> 1.0.5'
 gem 'devise'
 gem 'fog' #sudo apt-get install libcurl4-gnutls-dev
 gem 'mini_magick', '~> 4.3.6'
