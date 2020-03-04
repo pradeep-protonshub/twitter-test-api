@@ -282,7 +282,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     public_suffix (3.0.2)
-    puma (3.11.4)
+    puma (3.12.4)
     rack (2.0.5)
     rack-cors (0.4.1)
     rack-test (1.0.0)
@@ -409,7 +409,7 @@ DEPENDENCIES
   mini_magick (~> 4.3.6)
   pg (>= 0.18, < 2.0)
   pry
-  puma (~> 3.7)
+  puma (~> 3.12)
   rack-cors (~> 0.4.1)
   rails (~> 5.1.6)
   redis-mutex (~> 4.0.1)
